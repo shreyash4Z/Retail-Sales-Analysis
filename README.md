@@ -60,22 +60,22 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/yourusername/supermarket-sales-analysis.git
    
 2. Navigate to the project directory:
-   bash
+   ```bash
    cd supermarket-sales-analysis
    
 3. Install the required packages:
-   bash
+   ```bash
    pip install -r requirements.txt
    
 
 ### Usage
 
 1. Open the Jupyter Notebook:
-   bash
+   ```bash
    jupyter notebook Project-2.ipynb
    
 2. Run the cells sequentially to perform data cleaning and visualization.
