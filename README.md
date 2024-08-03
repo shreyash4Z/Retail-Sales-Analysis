@@ -76,7 +76,7 @@ Ensure you have the following installed:
 
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Project-2.ipynb
+   jupyter notebook retail_data_analytics.ipynb
    
 2. Run the cells sequentially to perform data cleaning and visualization.
 
